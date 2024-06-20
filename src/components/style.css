@@ -1,0 +1,9 @@
+.spinner{
+     height:40px;
+     width: 40px;
+}
+.news-col{
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-around;
+}
